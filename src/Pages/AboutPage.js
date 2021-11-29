@@ -1,7 +1,7 @@
 import React from "react";
-const HomePage=()=>(
+const AboutPage=()=>(
 <>
-<h1>Hello, welcome to my blog!</h1>
+<h1>About me!</h1>
 <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum magna lectus. Fusce porttitor dui vitae tellus condimentum, vel gravida erat euismod. Nullam venenatis ac nulla in auctor. Suspendisse quis nunc quam. Ut tristique tempor purus, ut pellentesque ante iaculis et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus et nulla tincidunt, elementum diam et, pharetra est. Aenean porttitor elit eget libero facilisis, sed pretium ipsum pellentesque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer sagittis est in nisi faucibus porta. Nunc feugiat sapien porta nunc sodales rhoncus sed at dui.
 </p>
@@ -10,4 +10,4 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 </p>
 </>
 );
-export default HomePage;
+export default AboutPage;
